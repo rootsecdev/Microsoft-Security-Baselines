@@ -4,12 +4,15 @@ All baselines are a hybrid mix of Microsoft Security Compliance, CIS, and DISA r
 
 Windows 10 V1803 (RS4)
 =================
-- A.) MSFT Windows 10 RS4 - Computer
-- B.) MSFT Windows 10 RS4 - BitLocker
-- C.) MSFT Windows 10 RS4 - Defender Antivirus
-- D.) MSFT Windows 10 and Server 2016 - Credential Guard
-- F.) MSFT Internet Explorer 11 - Computer
+- Windows 10 RS4 Virtual Smart Card Policies
+- Windows 10 RS4 - Computer
+- Windows 10 RS4 - BitLocker
+- Windows 10 RS4 - Defender Antivirus
+- Windows 10 and Server 2016 - Credential Guard
+- Internet Explorer 11 - Computer
 
 Windows Server 2016 Member Server
 =================
-  A.) 
+- Windows Server 2016 - Member Server Baseline - Computer
+- Windows 10 and Server 2016 - Credential Guard
+- Windows Server 2016 - Member Server Windows Defender
