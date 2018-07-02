@@ -2,7 +2,7 @@
 
 All baselines are a hybrid mix of Microsoft Security Compliance, CIS, and DISA recommendations. These are unique baselines that draw upon standard practices of all three approaches. They contain the following baselines:
 
-Windows 10 V1803 (RS4)
+Windows 10 V1804 (RS4)
 =================
 - Windows 10 RS4 Virtual Smart Card Policies
 - Windows 10 RS4 - Computer
