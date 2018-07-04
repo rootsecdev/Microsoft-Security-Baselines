@@ -37,6 +37,7 @@ Windows Server 2016 Member Server
 - Windows Server 2016 - Member Server Baseline - Computer
 - Windows 10 and Server 2016 - Credential Guard
 - Windows Server 2016 - Member Server Windows Defender
+- SCM Internet Explorer 11 - Computer
 
 ## Notes:
 
