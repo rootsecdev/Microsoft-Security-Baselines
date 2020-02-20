@@ -17,3 +17,7 @@ Computer Configuration > Policies > Administrative Templates > MS Security Guide
 
 Turn off Multicast Name Resolution
 Computer Configuration > Policies > Administrative Templates > Network > DNS Client > Turn off multicast name resolutio
+
+Disable Netbios
+Computer Configuration > Administrative Templates > MS Security Guide > NetBT NodeType configuration
+"P-Node(recommended)"
